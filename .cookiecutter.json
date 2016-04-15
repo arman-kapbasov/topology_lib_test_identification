@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_test_identification",
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "arman.kapbasov@hpe.com",
+    "repo_url": "https://github.com/arman-kapbasov/topology_lib_test_identification",
+    "doc_url": "https://github.com/arman-kapbasov/topology_lib_test_identification/tree/master/doc",
+    "project_name": "test_identification Communication Library for Topology",
+    "short_description": "Check and generate UUIDs for test cases",
+    "year": "2016",
+    "version": "0.1.0"
+}
